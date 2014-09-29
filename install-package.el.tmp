@@ -26,6 +26,9 @@
     ;;;; php
     php-mode web-mode
 
+    ;;;; css
+    css-mode scss-mode
+
     ;;;; undo
     undo-tree
 
