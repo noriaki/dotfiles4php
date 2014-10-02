@@ -43,7 +43,7 @@
     magit git-gutter gitignore-mode git-commit-mode
 
     ;;;; mode-line
-    powerline
+    ;powerline
 
     ;;;; line-number
     hlinum
