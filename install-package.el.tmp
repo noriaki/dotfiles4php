@@ -30,6 +30,9 @@
     css-mode less-css-mode
     ;scss-mode
 
+    ;;;; haml
+    haml-mode flymake-haml
+
     ;;;; undo
     undo-tree
 
